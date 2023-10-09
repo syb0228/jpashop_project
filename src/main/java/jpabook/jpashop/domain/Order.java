@@ -1,7 +1,9 @@
 package jpabook.jpashop.domain;
 
 import jakarta.persistence.*;
+import lombok.AccessLevel;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.springframework.cglib.core.Local;
 
@@ -12,6 +14,7 @@ import java.util.List;
 @Entity
 @Table(name = "orders")
 @Getter @Setter
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Order {
 
     @Id @GeneratedValue
@@ -73,7 +76,7 @@ public class Order {
      * 주문 취소
      */
     public void cancel(){
-        if(this.getDelivery().getStatus().equals(DeliveryStatus.COMP)){
+        if(DeliveryStatus.COMP.equals(this.getDelivery().getStatus())){
             throw new IllegalStateException("이미 배송완료된 상품은 취소가 불가능합니다.");
         }
 
