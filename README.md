@@ -36,4 +36,14 @@
 - [Member Service](https://velog.io/@syb0228/04-%ED%9A%8C%EC%9B%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9C%EB%B0%9C-Member-Service)
 - [Member 기능 테스트](https://velog.io/@syb0228/04-%ED%9A%8C%EC%9B%90-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9C%EB%B0%9C-Member-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
->ing 진행중
+#### 05 Item Domain 개발
+- [Item Entity, Repository, Service](https://velog.io/@syb0228/05-%EC%83%81%ED%92%88-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9C%EB%B0%9C-Item-Entity-Repository-Service)
+
+> 💡 [Entity LifeCycle](https://velog.io/@syb0228/Entity-LifeCycle)
+
+#### 07 Order Domian 개발
+- [Order Entity, Repository, Service](https://velog.io/@syb0228/06-%EC%A3%BC%EB%AC%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9C%EB%B0%9C)
+- [Order 기능 테스트](https://velog.io/@syb0228/06-%EC%A3%BC%EB%AC%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9C%EB%B0%9C-Order-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+- [주문 검색 기능 개발](https://velog.io/@syb0228/07-%EC%A3%BC%EB%AC%B8-%EB%8F%84%EB%A9%94%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%AC%B8-%EA%B2%80%EC%83%89-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C)
+
+>ing 진행중(매주 진행하는 사내 스터디)
