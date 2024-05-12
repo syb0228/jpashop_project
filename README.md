@@ -52,4 +52,31 @@
 
 <br>
 
->ing 진행중
+#### 08 웹 계층 개발
+- [홈 화면과 레이아웃](https://velog.io/@syb0228/07-%EC%9B%B9-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%B0%9C-%ED%99%88-%ED%99%94%EB%A9%B4%EA%B3%BC-%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83)
+- [회원 등록](https://velog.io/@syb0228/07-%EC%9B%B9-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%9B%90-%EB%93%B1%EB%A1%9D)
+- [회원 조회](https://velog.io/@syb0228/07-%EC%9B%B9-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%9B%90-%EC%A1%B0%ED%9A%8C)
+- [상품 등록/조회/수정](https://velog.io/@syb0228/07-%EC%9B%B9-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%B0%9C-%EC%83%81%ED%92%88-%EB%93%B1%EB%A1%9D%EC%A1%B0%ED%9A%8C%EC%88%98%EC%A0%95)
+- [상품 주문](https://velog.io/@syb0228/07-%EC%9B%B9-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%B0%9C-%EC%83%81%ED%92%88-%EC%A3%BC%EB%AC%B8)
+- [주문 목록 검색 및 주문 취소](https://velog.io/@syb0228/07-%EC%9B%B9-%EA%B3%84%EC%B8%B5-%EA%B0%9C%EB%B0%9C-%EC%A3%BC%EB%AC%B8-%EB%AA%A9%EB%A1%9D-%EA%B2%80%EC%83%89-%EB%B0%8F-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C)
+
+> 💡 [변경 감지와 병합(merge)](https://velog.io/@syb0228/%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80%EC%99%80-%EB%B3%91%ED%95%A9merge)
+
+<br>
+
+#### Spring Boot & JPA API 개발과 성능 최적화
+#### 01 API 개발
+- [회원 등록 API](https://velog.io/@syb0228/1-1.-API-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%B3%B8-%ED%9A%8C%EC%9B%90-%EB%93%B1%EB%A1%9D-API)
+- [회원 수정 API](https://velog.io/@syb0228/1-2-API-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%B3%B8-%ED%9A%8C%EC%9B%90-%EC%88%98%EC%A0%95-API-czh2lmld)
+- [회원 조회 API](https://velog.io/@syb0228/1-3-API-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EB%B3%B8-%ED%9A%8C%EC%9B%90-%EC%A1%B0%ED%9A%8C-API)
+
+
+<br>
+
+#### 02 API 성능 최적화
+- [성능 최적화 preivew](https://velog.io/@syb0228/2.-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A4%80%EB%B9%84)
+- [지연 로딩과 조회 성능 최적화](https://velog.io/@syb0228/3.-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%A7%80%EC%97%B0-%EB%A1%9C%EB%94%A9%EA%B3%BC-%EC%A1%B0%ED%9A%8C-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
+- [컬렉션 조회 최적화(1)](https://velog.io/@syb0228/4.-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%94)
+- [컬렉션 조회 최적화(2)](https://velog.io/@syb0228/4.-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%942)
+- [컬렉션 조회 최적화(3)](https://velog.io/@syb0228/4.-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%BB%AC%EB%A0%89%EC%85%98-%EC%A1%B0%ED%9A%8C-%EC%B5%9C%EC%A0%81%ED%99%943)
+- [실무 필수 최적화](https://velog.io/@syb0228/5.-API-%EA%B0%9C%EB%B0%9C-%EA%B3%A0%EA%B8%89-%EC%8B%A4%EB%AC%B4-%ED%95%84%EC%88%98-%EC%B5%9C%EC%A0%81%ED%99%94)
